@@ -1,0 +1,2 @@
+w = 'word'
+perms(w)
