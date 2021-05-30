@@ -1,3 +1,3 @@
-ps-Iri25
+Probabilities and Statistics
 
-Probability and Statistics issues
+Probleme de probabilitate și statistici rezolvate folosind Octave / Matlab.
